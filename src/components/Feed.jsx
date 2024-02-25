@@ -1,3 +1,5 @@
+//This component handles two primary parts Sidebar and video feed
+
 import React from 'react'
 
 function Feed() {
